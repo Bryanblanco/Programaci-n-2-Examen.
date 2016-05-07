@@ -20,7 +20,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author luisza
+ * @author Bryam Blanco B44773
  */
 public class Lector <T> {
     

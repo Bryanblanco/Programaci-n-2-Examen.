@@ -9,7 +9,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 /**
  *
- * @author User
+ * @author Bryam Blanco B44773
  */
 public class ControladorPais {
     

@@ -7,7 +7,7 @@ package Vista;
 
 /**
  *
- * @author User
+ * @author Bryam Blanco B44773
  */
 public class VentanaPais extends javax.swing.JFrame {
 

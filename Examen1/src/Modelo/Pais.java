@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author User
+ * @author Bryam Blanco B44773
  */
 public class Pais {
     

@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author User
+ * @author Bryam Blanco B44773
  */
 public class ArrayPersonas {
     
